@@ -1,4 +1,4 @@
-# RDSKD-UTANet Code Package
+# Reliability-aware Dual-Stage Knowledge Distillation UTANet for Medical Image Segmentation
 
 This package contains the core implementation of **Reliability-aware Dual-Stage Knowledge Distillation UTANet (RDSKD-UTANet)** and a ready-to-run 5-fold training script. The README is written so that reviewers can quickly understand the file structure, dataset layout, and exact commands used for the reported experiments.
 

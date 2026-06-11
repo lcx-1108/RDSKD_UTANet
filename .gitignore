@@ -1,0 +1,69 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# logs / outputs
+logs/
+runs/
+wandb/
+tensorboard/
+outputs/
+results/
+checkpoints/
+weights/
+pretrained/
+exp/
+experiments/
+experiments_*/
+paper_tables/
+tmp/
+temp/
+
+# model files
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.pkl
+
+# datasets
+data/
+dataset/
+datasets/
+Dataset/
+Datasets/
+images/
+masks/
+*.nii
+*.nii.gz
+*.dcm
+*.h5
+*.mat
+*.npy
+*.npz
+
+# compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# secrets
+.env
+*.key
+*.pem
